@@ -36,7 +36,7 @@ This repository contains a series of Java exercises specifically aimed at master
    javac WorkingWithObjects.java
    java WorkingWithObjects
 
-Contributing
+## Contributing
 
 If you would like to contribute to this repository, feel free to fork the repo and submit a pull request. Any feedback or suggestions for improvements are welcome!
 
