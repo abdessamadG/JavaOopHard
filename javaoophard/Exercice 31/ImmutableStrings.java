@@ -10,6 +10,12 @@ public class ImmutableStrings {
 		list.clear();
 		System.out.println(list);
 
+		list.add(4.0);
+		list.add(2.0);
+
+		replaceFirst(list);
+		System.out.println( "List after replaceFirst method: " + list );
+
 		String word = "impossible";
 		System.out.println( "\n" + word );
 		word.substring(2);
@@ -36,5 +42,11 @@ public class ImmutableStrings {
 		a = b;
 		b = temp;
 		System.out.println( "\tAfter \"swapping\": " + a + ", " + b );
+	}
+
+	public static void replaceFirst( ArrayList<Double> list) {
+		if (!list.isEmpty()) {
+			list.set(0, 0.0);
+		}
 	}
 }
