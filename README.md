@@ -29,7 +29,7 @@ This repository contains a series of Java exercises specifically aimed at master
 
 3. Open the project in your favorite IDE.
 
-4. Compile and run the desired exercise. For example, to run the class and objects exercise:
+4. Compile and run the desired exercise. For example, to run the objects exercise:
    ```bash
    javac WorkingWithObjects.java
    java WorkingWithObjects
