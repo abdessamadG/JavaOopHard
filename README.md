@@ -25,7 +25,7 @@ This repository contains a series of Java exercises specifically aimed at master
 
 2. Navigate to the project directory:
    ```bash
-   cd https://github.com/abdessamadG/JavaOopHard.git
+   cd JavaOopHard
 
 3. Open the project in your favorite IDE.
 
