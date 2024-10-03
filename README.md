@@ -19,6 +19,8 @@ This repository contains a series of Java exercises specifically aimed at master
 - Java JDK (version 23)
 - Nvim
 
+## How to Run the Exercises
+
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/abdessamadG/JavaOopHard.git
@@ -38,6 +40,6 @@ Contributing
 
 If you would like to contribute to this repository, feel free to fork the repo and submit a pull request. Any feedback or suggestions for improvements are welcome!
 
-License
+## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
